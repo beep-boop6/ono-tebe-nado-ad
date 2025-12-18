@@ -12,11 +12,10 @@
 .header__links-list {
     display: flex;
     gap: 32px;
-    list-style-type: circle;
 }
 
 .header__links-list-item {
-
+    list-style-type: circle;
 }
 
 .header__links-list-item_no-bullit {
