@@ -1,1 +1,1 @@
-Верстка простого одностраничника по курсу от Яндекс Практикума
+https://github.com/beep-boop6/ono-tebe-nado-ad
