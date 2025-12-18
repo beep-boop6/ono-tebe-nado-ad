@@ -31,10 +31,6 @@
     text-decoration: none;
 }
 
-.header__link:hover {
-    text-decoration: underline;
-}
-
 .header__logo {
     display: block;
     width: 148px;
@@ -281,15 +277,11 @@
 
 .footer__menu-link {
     font-size: 18px;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .footer__menu-link_active {
     text-decoration: none;
-}
-
-.footer__menu-link:hover {
-    text-decoration: underline;
 }
 
 .footer__social-list {
