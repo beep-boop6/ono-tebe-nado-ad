@@ -12,11 +12,11 @@
 .header__links-list {
     display: flex;
     gap: 32px;
-    list-style: none;
+    list-style-type: circle;
 }
 
 .header__links-list-item {
-    list-style: none;
+
 }
 
 .header__links-list-item_no-bullit {
@@ -25,7 +25,7 @@
 
 .header__link {
     font-size: 18px;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .header__link_active {
@@ -69,6 +69,7 @@
     background-image: url(../images/cover.jpg);
     background-size: cover;
     background-position: center;
+    height: 757px;
 }
 
 .overlay {
